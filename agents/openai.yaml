@@ -1,0 +1,4 @@
+interface:
+  display_name: "原画到 Live2D"
+  short_description: "复用保真拆图、代码建模、网页调试和自然待机的完整制作流程"
+  default_prompt: "使用 $live2d-from-art，把附件角色做成保真半身 Live2D，用于 VTube Studio 和 OBS 直播，自动完成制作与可执行验收，并明确未验证项。"
